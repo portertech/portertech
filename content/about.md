@@ -1,17 +1,8 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "About"
+date = "2020-04-11"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Sean Porter is the creator of Sensu, the open source monitoring tool, and the co-founder and CTO of Sensu Inc. Sean is a seasoned systems operator and software developer with over a decade of experience in automating infrastructure. As CTO of Sensu Inc, he oversees the development of Sensu, and works with users to better understand how Sensu can help them solve complex monitoring problems.
 
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
+Sean lives in Kamloops, a city in the interior of British Columbia, Canada.
