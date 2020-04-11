@@ -1,6 +1,6 @@
 ---
 title: "Phones, Servers, and User Experience"
-date: 2010-07-19T16:54:34-07:00
+date: 2010-07-19
 draft: false
 toc: false
 images:

@@ -1,6 +1,6 @@
 ---
 title: "Perfume.com on AWS"
-date: 2010-02-28T15:23:32-07:00
+date: 2010-02-28
 draft: true
 toc: false
 images:

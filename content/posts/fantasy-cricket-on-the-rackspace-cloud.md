@@ -1,6 +1,6 @@
 ---
 title: "Fantasy Cricket on the Rackspace Cloud"
-date: 2010-05-28T16:51:20-07:00
+date: 2010-05-28
 draft: false
 toc: false
 images:

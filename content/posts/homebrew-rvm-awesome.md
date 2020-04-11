@@ -1,6 +1,6 @@
 ---
 title: "Homebrew + RVM > Awesome"
-date: 2010-03-26T16:19:04-07:00
+date: 2010-03-26
 draft: false
 toc: false
 images:
