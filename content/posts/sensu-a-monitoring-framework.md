@@ -1,6 +1,6 @@
 ---
 title: "Sensu a Monitoring Framework"
-date: 2011-01-11
+date: 2011-11-01
 draft: false
 toc: false
 images:
