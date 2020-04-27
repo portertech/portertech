@@ -195,6 +195,6 @@ We’re thrilled to roll out these features and see how you use Sensu Go. Wherea
 
 Ready to try it out for yourself? [Start using Sensu Go now](https://sensu.io/get-started).
 
-This post was derived from my [Sensu Summit 2019 Keynote, Scaling Sensu Go](https://www.youtube.com/watch?v=EhmzmEJ4EmI). My slide deck can be [here](https://speakerdeck.com/portertech/scaling-sensu-go).
+You can watch the full Sensu Summit 2019 Keynote, Scaling Sensu Go, [on YouTube!](https://www.youtube.com/watch?v=EhmzmEJ4EmI). The slide deck can be found [here](https://speakerdeck.com/portertech/scaling-sensu-go).
 
 {{< youtube EhmzmEJ4EmI >}}
