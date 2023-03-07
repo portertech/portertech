@@ -88,11 +88,9 @@ yum install --downloadonly --downloaddir=/root/packages shim-x64 grub2-efi-x64.x
 cd /root/packages
 
 rpm2cpio shim-x64-* | cpio -dmi --quiet
-
 rpm2cpio grub2-efi-x64-* | cpio -dmi --quiet
 
 cp boot/efi/EFI/rocky/shim.efi /tftpboot/
-
 cp boot/efi/EFI/rocky/grubx64.efi /tftpboot/
 ```
 
@@ -123,7 +121,7 @@ allow booting;
 allow bootp;
 ddns-update-style none;
 default-lease-time 31556952; # one year
-max-lease-time 31556952; # Otherwise the static assignment expires at 24h and the NFS root breaks.
+max-lease-time 31556952; # otherwise the static assignment expires at 24h and the NFS root breaks.
 ignore client-updates;
 update-static-leases on;
 
