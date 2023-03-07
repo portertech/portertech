@@ -19,7 +19,7 @@ tags:
 
 Thanks to the fairly recent "crypto collapse" and ever increasing
 crypto network difficulty, used GPUs are back on the menu! I managed
-to acquired six nvidia A4000 single card slot GPUs from eBay at a
+to acquire six nvidia A4000 single card slot GPUs from eBay at a
 bargain price. Crypto miners were dumping these sweet cards just in
 time for me to experiment with GPU acceleration of all-the-things. My
 home lab already had three identical nodes ready to house the GPUs,
